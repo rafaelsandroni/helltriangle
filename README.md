@@ -7,7 +7,9 @@ Sempre somando com os elementos da mesma coluna ou da próxima coluna à direita
 Exemplo:
 
 6
+
 3 4
+
 5 6 7
 
 A caminho da soma máxima é: 6 + 4 + 7 = 17
@@ -21,10 +23,12 @@ A escolha da linguagem Python foi feita seguindo os pontos: a possibilidade de c
 
 O arquivo compõe os testes unitários, escritos usando o unittest, módulo de testes padrão da liguagem python.
 
-#Runing
+#Running
 
 git clone https://github.com/rafaelsandroni/helltriangle.git
+
 cd ./helltriangle
+
 $ ./main.py
 
 A lista (arr) contendo os elementos do triângulo, pode ser alterada em main.py.
