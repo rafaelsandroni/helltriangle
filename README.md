@@ -33,6 +33,14 @@ $ ./main.py
 
 A lista (arr) contendo os elementos do triângulo, pode ser alterada em main.py.
 
+#Result
+
+========== results ==========
+ triangle: [[6], [3, 5], [9, 7, 1], [4, 6, 8, 4]] 
+ maximum total: 26
+ path: [0, 1, 1, 2] 
+ execution time: 0.000049s
+=============================
 
 
 
